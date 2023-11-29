@@ -7,6 +7,6 @@ I work for a really great company called [Capital Markets Gateway](https://cmgx.
 I'm currently working on these:
 
 * Nickelpack: A Nix-like that aims to address some shortcomings I've seen in Nix. https://github.com/nickelpack/npk
-* Termkit: A VT100-502 library that attempts to "assume nothing" about the terminal.
+* Termkit: A VT100-502 library that attempts to "assume nothing" about the terminal. https://codeberg.org/jcdickinson/termkit
 
 ## Have an awesome day!
